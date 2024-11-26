@@ -1,4 +1,4 @@
-# SimpleJava-Inheritance
+# Java-Inheritance
 A simple program for practise java IS-A mechanisms. 
 
 
